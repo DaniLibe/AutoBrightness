@@ -10,7 +10,7 @@ Github: https://github.com/DaniLibe
 Twitter: https://twitter.com/danilibe98
 Mail: danylibedev@gmail.com
 
-If you find a bug contact me on danylibedev@gmail.com
+If you find a bug contact me at danylibedev@gmail.com
 Enjoy! ;)
 
 """
