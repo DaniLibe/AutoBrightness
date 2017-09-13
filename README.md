@@ -4,6 +4,5 @@ This script will automatically change your screen brightness based on data recei
 You need to install pySerial module to use this script.
 This script MUST be run as root!
 
-If you find bugs contact me at danylibedev@gmail.com
-
+If you find bugs contact me at daniele356@protonmail.com
 Enjoy! ;)
